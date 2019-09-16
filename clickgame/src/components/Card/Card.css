@@ -15,8 +15,11 @@
     background: gray;
   }
   .card > .img-container > img {
-    width: 60%
+    width: 260px;
+    height: 200px;
+    padding-top: 2rem;
   }
+  
   .card > .content {
     padding-left: 1rem;
     padding-right: 1rem;
